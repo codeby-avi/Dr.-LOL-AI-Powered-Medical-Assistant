@@ -162,11 +162,3 @@ python gradio_app.py
 - [@codeby-avi](https://github.com/codeby-avi)
 
 
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
