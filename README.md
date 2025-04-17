@@ -9,7 +9,7 @@ This guide provides step-by-step instructions to set up your project environment
 
 1. [Installing FFmpeg and PortAudio](#installing-ffmpeg-and-portaudio)
    - [macOS](#macos)
-   - [Linux](#linux)
+   - [Linux](#linux)  
    - [Windows](#windows)
 2. [Setting Up a Python Virtual Environment](#setting-up-a-python-virtual-environment)
    - [Using Pipenv](#using-pipenv)
