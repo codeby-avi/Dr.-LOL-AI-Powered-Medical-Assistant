@@ -203,9 +203,9 @@ Visit [http://localhost:7860](http://localhost:7860) to interact with Dr. LOL th
 
 ## 📊 **Dashboard Preview** 📱
 
-![Dashboard Screenshot](https://avi-chavan-96.sirv.com/Dr-Lol/dr%201.png)  
+![Dashboard Screenshot](https://avi-chavan-96.sirv.com/Projects/Dr-Lol/dr%201.png)  
  
-![Dashboard Screenshot](https://avi-chavan-96.sirv.com/Dr-Lol/dr%202.png)  
+![Dashboard Screenshot](https://avi-chavan-96.sirv.com/Projects/Dr-Lol/dr%202.png)  
  
 _The interactive Gradio interface allows users to upload images, speak, and receive AI-generated diagnoses in real-time._
 
